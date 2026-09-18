@@ -1,5 +1,8 @@
+<h1 align="center">👋 Hey, I'm Cole</h1>
+
 <p align="center">
-  <img src="assets/cole-banner.svg" alt="Hey, I'm Cole. Civil engineering meets code. Design roads. Automate the boring stuff. Build useful tools." width="100%">
+  <img src="assets/roadway-construction.jpg" alt="Curving elevated roadway beside a bridge under construction" width="49%">
+  <img src="assets/bridge-construction.jpg" alt="Bridge construction equipment and lifting gantry on a roadway deck" width="49%">
 </p>
 
 <p align="center">
